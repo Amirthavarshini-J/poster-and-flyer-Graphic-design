@@ -1,6 +1,4 @@
 
-Description
-This repository contains the design files for a poster/flyer created using Figma. The design is aimed at [provide brief description or target audience here].
 
 Design Files
 - **Poster/Flyer**
